@@ -1,0 +1,55 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#header {
+    color: #333333;
+    height: 60px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 60px;
+}
+
+#menu {
+    padding-right: 20px;
+}
+
+#footer {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    font-size: x-small;
+    color: #333333;
+}
+
+.product {
+    padding: 20px;
+}
+
+.icon{
+    width: 28px;
+    height: 28px;
+}
+
+.section {
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: smaller;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+li div {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.section-title {
+    font-size: small;
+}
